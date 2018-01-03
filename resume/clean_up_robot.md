@@ -5,15 +5,28 @@
 ### 完成イメージ
 <img src="../img/clean_up_robot_pic/1.png">
 
+<br>
+
 ### 実際にロボットを組み立てよう
+### 1組目の親子
 <img src="../img/clean_up_robot_pic/2.png">
+
+<br>
+
+### 2組目の親子
 <img src="../img/clean_up_robot_pic/3.png">
 <img src="../img/clean_up_robot_pic/4.png">
+
+<br>
+
+### 3組目の親子
 <img src="../img/clean_up_robot_pic/5.png">
 <img src="../img/clean_up_robot_pic/6.png">
 <img src="../img/clean_up_robot_pic/7.png">
 
-## プログラムを作ろう
+<br>
+
+## テストモードで確認
 
 
 ## 左右に動くお掃除ロボットの組み立て(時間があったら)
