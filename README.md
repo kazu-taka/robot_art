@@ -1,5 +1,5 @@
 # プログラミングをしながらロボットを動かそう
-
+ - <a href="http://www.artec-kk.co.jp/artecrobo/ja/product/product_06.php" target="_blank">Artec Robo</a>
  - 3組の親子で1つのチームを作ります。
  - ロボットは1チームに1台です。
  - ロボットは順番に少しずつ組み立てていきます。
