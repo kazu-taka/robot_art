@@ -14,3 +14,7 @@
 
 - <a href="./resume/clean_up_robot.md" target="_blank">お掃除ロボットの組み立て</a>
 - プログラムを作ろう
+
+## 時間があったら
+
+- <a href="https://studio.code.org/courses" target="_blank">コードスタジオ</a>
