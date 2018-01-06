@@ -1,3 +1,9 @@
+### 講師
+髙橋一真(たかはし かずま)
+
+### TA
+髙橋知憲(たかはし とものり)
+
 # プログラミングをしながらロボットを動かそう
  - <a href="http://www.artec-kk.co.jp/artecrobo/ja/product/product_06.php" target="_blank">Artec Robo</a>
  - 3組の親子で1つのチームを作ります。
